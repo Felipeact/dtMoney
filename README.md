@@ -1,46 +1,83 @@
-# Getting Started with Create React App
+<p align="center">
+   <a href="https://www.linkedin.com/in/felipe-viana/">
+      <img alt="Felipe Viana" src="https://img.shields.io/badge/-felipeviana-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/felipeact/WatchMe?color=%235963C5" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/felipeact/WatchMe?color=%235761C3" />
+  <img alt="License" src="https://img.shields.io/github/license/felipeact/WatchMe?color=%235E69D7" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/felipeact/WatchMe?color=%235965E0">
+  <a href="mailto:felipetiburcioviana@gmail.com">
+   <img alt="E-mail" src="https://img.shields.io/badge/-felipetiburcioviana%40gmail.com-%23525DCB" />
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- <p align="center">
+  📰 
+</p> -->
 
-## Available Scripts
+<hr />
 
-In the project directory, you can run:
+<p align="center">
+</p>
 
-### `yarn start`
+<div align="center">
+  <sub> Made by
+    <a href="https://github.com/felipeact">Felipe Viana 
+  </sub>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# 📌 Contents
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* [Screenshots](#camera-screenshot)
+* [Technologies](#rocket-technologies)
+* [How to Run](#computer-how-to-run)
+* [Issues](#bug-issues)
+* [Contributing](#sparkles-issues)
+* [License](#page_facing_up-license)
 
-### `yarn test`
+# :camera: Screenshots
+<!-- <div align="center">
+   <img src="" width="400px">
+   
+</div> -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# :rocket: Technologies
+This project was made using the follow technologies:
 
-### `yarn build`
+* [React](https://reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Axios](https://github.com/axios/axios)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# :computer: How to run
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Clone Repository
+$ git clone https://github.com/Felipeact/dtMoney.git && cd dtMoney
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Install Dependencies
+$ npm install || yarn 
 
-### `yarn eject`
+# Fill .env.local file with YOUR environment variables, according to .env.example file.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Run Aplication
+$ yarn dev
+   
+# Run Json server 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# :bug: Issues
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Create a <a href="https://github.com/Felipeact/dtMoney.git/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# :sparkles: Contributing
 
-## Learn More
+This project follows the Angular Convention commits pattern. [Click](./commitlint.config.js) to see the available prefixes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Fork this repository;
+- Create a new branch to develop your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: my new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# :page_facing_up: License
+
+This project is under the [MIT License](./LICENSE) |
+Made with by [Felipe Viana](https://www.linkedin.com/in/felipe-viana/).
