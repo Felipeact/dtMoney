@@ -36,10 +36,11 @@
 * [License](#page_facing_up-license)
 
 # :camera: Screenshots
-<!-- <div align="center">
-   <img src="" width="400px">
+<div align="center">
+   <img src="./.github/home.png" width="400px">
+   <img src="./.github/Modal.png" width="400px">
    
-</div> -->
+</div>
 
 # :rocket: Technologies
 This project was made using the follow technologies:
